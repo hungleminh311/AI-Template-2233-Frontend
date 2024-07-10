@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Join our vibrant community and start your journey to fortune today. Fun, strategy, and rewards await.",
+        "title": "Win Big with Every Bet!"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Join our vibrant community and start your journey to fortune today. Fun, strategy, and rewards await.",
+        "title": "Win Big with Every Bet!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Join our vibrant community and start your journey to fortune today. Fun, strategy, and rewards await.",
+        "title": "Win Big with Every Bet!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Join our vibrant community and start your journey to fortune today. Fun, strategy, and rewards await.",
+        "title": "Win Big with Every Bet!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Join our vibrant community and start your journey to fortune today. Fun, strategy, and rewards await.",
+        "title": "Win Big with Every Bet!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Join our vibrant community and start your journey to fortune today. Fun, strategy, and rewards await.",
+        "title": "Win Big with Every Bet!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Join our vibrant community and start your journey to fortune today. Fun, strategy, and rewards await.",
+        "title": "Win Big with Every Bet!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Join our vibrant community and start your journey to fortune today. Fun, strategy, and rewards await.",
+        "title": "Win Big with Every Bet!"
+      }
+    }
+  ],
+  "theme": "corporate",
+  "font": "",
+  "title": "Win Big with Every Bet!",
+  "subtitle": "Join our vibrant community and start your journey to fortune today. Fun, strategy, and rewards await."
+}
